@@ -109,7 +109,7 @@ README.md                   # This build log
 
 ---
 
-## License & attribution reminder
+## License & attribution
 
-- **Upstream Corne design & sketch image:** foostan/crkbd, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Keymap JSON and this README:** personal build documentation by Jose I. Montero — free to reuse for learning; please keep upstream credits if you fork.
+- **This repository** (keymap JSON, build notes, layer diagrams): [MIT License](LICENSE) — Copyright (c) 2026 Jose I. Montero.
+- **Upstream Corne design and PCB sketch image:** foostan/crkbd, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Keep that credit if you reuse the sketch.
